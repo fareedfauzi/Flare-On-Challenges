@@ -37,7 +37,7 @@ The binaries are compressed with 7zip@Zip. The password of all compressed were a
 - https://www.mavjs.org/post/flareon5-writeup/
 
 **2019**
-- In Write-ups/2019 directory
+- In Write-ups/2019 directory (FireEye's official write-up)
 - https://blog.attify.com/
 - https://malwareunicorn.org/workshops/flareon6_2019.html#12
 - https://bruce30262.github.io/flare-on-challenge-2019-write-up/
