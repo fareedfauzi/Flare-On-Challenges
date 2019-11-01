@@ -1,0 +1,100 @@
+************************************************
+* 01: Minesweeper Championship Registration
+************************************************
+Welcome to the Fifth Annual Flare-On Challenge! The Minesweeper World Championship is coming soon and we found the registration app. You weren't *officially* invited but if you can figure out what the code is you can probably get in anyway. Good luck!
+
+7zip Password: infected
+
+
+************************************************
+* 02: Ultimate Minesweeper
+************************************************
+You hacked your way into the Minesweeper Championship, good job. Now its time to compete. Here is the Ultimate Minesweeper binary. Beat it, win the championship, and we'll move you on to greater challenges.
+
+7zip password: infected
+
+
+************************************************
+* 03: FLEGGO
+************************************************
+When you are finished with your media interviews and talk show appearances after that crushing victory at the Minesweeper Championship, I have another task for you. Nothing too serious, as you'll see, this one is child's play.
+
+7zip password: infected
+
+
+************************************************
+* 04: binstall
+************************************************
+It is time to get serious. Reverse Engineering isn't about toys and games. Sometimes its about malicious software. I recommend you run this next challenge in a VM or someone else's computer you have gained access to, especially if they are a Firefox user.
+
+7zip password: infected
+
+
+************************************************
+* 05: Web 2.0
+************************************************
+The future of the internet is here, again. This next challenge will showcase some the exciting new technologies paving the information super-highway for the next generation. 
+
+7zip password: infected
+
+
+************************************************
+* 06: Magic
+************************************************
+Wow you are a really good reverse engineer! Keep it up! You can do it! 
+
+How to tell if your child is a computer hacker:
+
+1. They are using Lunix, an illegal hacker operating system
+2. They are struggling to maintain contact with the outside world, due to spending their time reading gibberish on the computer screen
+
+7zip password: infected
+
+
+************************************************
+* 07: WOW
+************************************************
+ Wow, just.... Wow. 
+
+7zip password: infected
+
+
+************************************************
+* 08: Doogie Hacker
+************************************************
+You are absolutely crushing this. Saved off the first few sectors from a hard drive that some computer genius had back in the 90s. People say the kid used to write his own computer software but that sounds crazy. This little prankster left us a secret message I think.
+
+7zip password: infected
+
+
+************************************************
+* 09: leet editr
+************************************************
+Its getting to the very late stage challenges now, so its probably a good point to just turn back, stop this insanity. What's that? You wanted more ASCII art? Ask and ye shall receive.
+
+7zip password: infected
+
+
+************************************************
+* 10: golf
+************************************************
+How about a nice game of golf? Did you bring a visor? Just kidding, you're not going outside any time soon. You're going to be sitting at your computer all day trying to solve this. 
+
+7zip password: infected
+
+
+************************************************
+* 11: malware skillz
+************************************************
+We captured some malware traffic, and the malware we think was responsible. You know the drill, if you reverse engineer and decode everything appropriately you will reveal a hidden message. 
+This challenge thinks its the 9th but it turned out too hard, so we made it the 11th.
+
+7zip password: infected
+
+
+************************************************
+* 12: Suspicious Floppy Disk
+************************************************
+Now for the final test of your focus and dedication. We found a floppy disk that was given to spies to transmit secret messages. The spies were also given the password, we don't have that information, but see if you can figure out the message anyway. You are saving lives.
+
+7zip password: infected
