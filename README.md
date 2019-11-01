@@ -11,25 +11,25 @@ The binaries are compressed with 7zip@Zip. The password of all compressed were a
 - https://www.codeandsec.com/Detailed-Solutions-to-FireEye-FLARE-Challenge
 
 **2015**
-- In Write-ups/2015 directory
+- In Write-ups/2015 directory (FireEye's official write-up)
 - http://bytepointer.com/articles/flare2015/index.htm
 - https://www.aldeid.com/wiki/The-FLARE-On-Challenge-2015
 - http://www.ghettoforensics.com/2015/09/solving-2015-flare-on-challenges.html
 - https://secwriteups.blogspot.com/2016/08/
 
 **2016**
-- In Write-ups/2016 directory
+- In Write-ups/2016 directory (FireEye's official write-up)
 - https://0xec.blogspot.com/2016/11/flare-on-challenge-2016-write-up.html
 - http://mislusnys.github.io/post/flareon3/
 
 **2017**
-- In Write-ups/2017 directory
+- In Write-ups/2017 directory (FireEye's official write-up)
 - https://lifeinhex.com/about-flare-2017/
 - https://blog.attify.com/
 
 
 **2018**
-- In Write-ups/2018 directory
+- In Write-ups/2018 directory (FireEye's official write-up)
 - https://blog.attify.com/
 - https://0x00sec.org/t/writeup-flare-on-2018/10502
 - https://bruce30262.github.io/flare-on-challenge-2018-write-up/
