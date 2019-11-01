@@ -3,6 +3,8 @@ This repo is aim to compile all Flare-On challenge's binaries and write-ups so t
 
 The binaries are compressed with 7zip@Zip. The password of all compressed were attached in .txt file.
 
+Available Challenges and Write-ups: 2014 - 2019.
+
 # Flare-On Writeups
 **2014**
 - https://www.aldeid.com/wiki/The-FLARE-On-Challenge-01
