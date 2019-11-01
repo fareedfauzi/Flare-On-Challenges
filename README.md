@@ -1,9 +1,19 @@
 # Flare-On Challenges
+Flare-On is a reverse enginerring based CTF organized by The FireEye Labs Advanced Reverse Engineering (FLARE) team,  which started in 2014 and has continued each year since.
+
 This repo is aim to compile all Flare-On challenge's binaries and write-ups so that you guys and I can review and study the challenges to improve our skill in reverse engineering.
 
 The binaries are compressed with 7zip@Zip. The password of all compressed file were attached in .txt file.
 
-Available Challenges and Write-ups: 2014 - 2019.
+Available Binaries and Write-ups: 2014 - 2019.
+
+# Flare-On Binaries
+- [2014 (Flare-On 1)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2014/Flare-on%201)
+- [2015 (Flare-On 2)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2015/Flare-on%202)
+- [2016 (Flare-On 3)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2016/Flare-on%203)
+- [2017 (Flare-On 4)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2017/Flare-on%204)
+- [2018 (Flare-On 5)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2018/Flare-on%205)
+- [2019 (Flare-On 6)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2019/Flare-on%206)
 
 # Flare-On Writeups
 **2014**
