@@ -1,7 +1,7 @@
 # Flare-On Challenges
 This repo is aim to compile all Flare-On challenge's binaries and write-ups so that you guys and I can review and study the challenges to improve our skill in reverse engineering.
 
-The binaries are compressed with 7zip@Zip. The password of all compressed were attached in .txt file.
+The binaries are compressed with 7zip@Zip. The password of all compressed file were attached in .txt file.
 
 Available Challenges and Write-ups: 2014 - 2019.
 
