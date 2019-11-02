@@ -8,12 +8,12 @@ The binaries are compressed with 7zip / Zip except for 2016 and 2017's binaries.
 Available Binaries and Write-ups: 2014 - 2019.
 
 # Flare-On Binaries
-- [2014 (Flare-On 1)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2014/Flare-on%201)
-- [2015 (Flare-On 2)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2015/Flare-on%202)
-- [2016 (Flare-On 3)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2016/Flare-on%203)
-- [2017 (Flare-On 4)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2017/Flare-on%204)
-- [2018 (Flare-On 5)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2018/Flare-on%205)
-- [2019 (Flare-On 6)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Challenges/2019/Flare-on%206)
+- 2014 (Flare-On 1)
+- 2015 (Flare-On 2)
+- 2016 (Flare-On 3)
+- 2017 (Flare-On 4)
+- 2018 (Flare-On 5)
+- 2019 (Flare-On 6)
 
 # Flare-On Writeups
 **2014**
