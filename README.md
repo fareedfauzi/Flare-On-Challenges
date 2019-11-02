@@ -3,7 +3,7 @@ Flare-On is a reverse enginerring based CTF organized by The FireEye Labs Advanc
 
 This repo is aim to compile all Flare-On challenge's binaries and write-ups so that you guys and I can review and study the challenges to improve our skill in reverse engineering.
 
-The binaries are compressed with 7zip / Zip except 2016 and 2017's binaries. The password of all compressed file were attached in .txt file.
+The binaries are compressed with 7zip / Zip except for 2016 and 2017's binaries. The password of all compressed file were attached in .txt file.
 
 Available Binaries and Write-ups: 2014 - 2019.
 
