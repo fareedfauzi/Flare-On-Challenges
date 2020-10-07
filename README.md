@@ -14,6 +14,7 @@ Available Binaries and Write-ups: 2014 - 2019.
 - 2017 (Flare-On 4)
 - 2018 (Flare-On 5)
 - 2019 (Flare-On 6)
+- 2020 (Flare-On 7)
 
 # Flare-On Writeups
 **2014**
@@ -55,4 +56,4 @@ Available Binaries and Write-ups: 2014 - 2019.
 - https://bruce30262.github.io/flare-on-challenge-2019-write-up/
 
 **2020**
-Now playing at https://flare-on.com/ and https://2020.flare-on.com/
+- Now playing at https://2020.flare-on.com/
