@@ -56,5 +56,5 @@ Available Binaries and Write-ups: 2014 - 2019.
 - https://bruce30262.github.io/flare-on-challenge-2019-write-up/
 
 **2020**
-- [In Write-ups/2019 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2020)
+- [In Write-ups/2020 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2020)
 - https://medium.com/insomniacs/journal-flareon7-part-1-ca675815f204
