@@ -58,4 +58,9 @@ Available Binaries and Write-ups: 2014 - 2020
 **2020**
 - [In Write-ups/2020 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2020)
 - https://medium.com/insomniacs/journal-flareon7-part-1-ca675815f204
+- https://medium.com/insomniacs/journal-flareon7-part-2-88baa92ffc9b
 - https://explained.re/
+- https://github.com/aleeamini/Flareon7-2020
+- https://github.com/LeoCodes21/ctf-writeups/tree/main/Flare-On%202020
+
+
