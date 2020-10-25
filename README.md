@@ -5,7 +5,7 @@ This repo is aim to compile all Flare-On challenge's binaries and write-ups so t
 
 The binaries are compressed with 7zip / Zip except for 2016 and 2017's binaries. The password of all compressed file were attached in .txt file.
 
-Available Binaries and Write-ups: 2014 - 2019.
+Available Binaries and Write-ups: 2014 - 2020
 
 # Flare-On Binaries
 - 2014 (Flare-On 1)
