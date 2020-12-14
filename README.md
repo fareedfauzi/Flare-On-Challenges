@@ -21,7 +21,8 @@ Available Binaries and Write-ups: 2014 - 2020
 - https://www.aldeid.com/wiki/The-FLARE-On-Challenge-01
 - https://parsiya.net/blog/2014-09-23-my-adventure-with-fireeye-flare-challenge/#ch1
 - http://www.ghettoforensics.com/2014/09/a-walkthrough-for-flare-re-challenges.html
-- https://www.codeandsec.com/Detailed-Solutions-to-FireEye-FLARE-Challenge
+- https://www.codeandsec.com/Detailed-Solutions-to-FireEye-FLARE-Challenge (down)
+- https://www.fireeye.com/blog/threat-research/2014/11/the_flare_on_challen.html
 
 **2015**
 - [In Write-ups/2015 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2015)
