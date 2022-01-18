@@ -65,7 +65,11 @@ Available Binaries and Write-ups: 2014 - 2020
 - https://github.com/LeoCodes21/ctf-writeups/tree/main/Flare-On%202020
 
 **2021**
-- https://www.mandiant.com/resources/flare-on-8-challenge-solutions
+- [In Write-ups/2021 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2021)
+- https://rainbowpigeon.me/tags/flare-on/
+- https://0xdf.gitlab.io/flare-on-2021/credchecker
+- https://www.mustafadur.com/blog/flareon-2021-08/
+- https://washi1337.github.io/ctf-writeups/writeups/flare-on/2021/
     
 
 
