@@ -64,4 +64,9 @@ Available Binaries and Write-ups: 2014 - 2020
 - https://github.com/aleeamini/Flareon7-2020
 - https://github.com/LeoCodes21/ctf-writeups/tree/main/Flare-On%202020
 
+**2021**
+- https://www.mandiant.com/resources/flare-on-8-challenge-solutions
+    
+
+
 
