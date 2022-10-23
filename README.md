@@ -22,7 +22,7 @@ Available Binaries and Write-ups: 2014 - 2021
 - https://www.aldeid.com/wiki/The-FLARE-On-Challenge-01
 - https://parsiya.net/blog/2014-09-23-my-adventure-with-fireeye-flare-challenge/#ch1
 - http://www.ghettoforensics.com/2014/09/a-walkthrough-for-flare-re-challenges.html
-- https://www.codeandsec.com/Detailed-Solutions-to-FireEye-FLARE-Challenge (down)
+- http://web.archive.org/web/20200814180756/http://codeandsec.com/Detailed-Solutions-to-FireEye-FLARE-Challenge
 - https://www.fireeye.com/blog/threat-research/2014/11/the_flare_on_challen.html
 
 **2015**
