@@ -56,6 +56,7 @@ Available Binaries and Write-ups: 2014 - 2021
 - https://blog.attify.com/
 - https://malwareunicorn.org/workshops/flareon6_2019.html#12
 - https://bruce30262.github.io/flare-on-challenge-2019-write-up/
+- https://washi1337.github.io/ctf-writeups/writeups/flare-on/2019/
 
 **2020**
 - [In Write-ups/2020 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2020)
@@ -64,6 +65,7 @@ Available Binaries and Write-ups: 2014 - 2021
 - https://github.com/aleeamini/Flareon7-2020
 - https://github.com/LeoCodes21/ctf-writeups/tree/main/Flare-On%202020
 - https://explained.re/posts/flare-on-7-write-up-of-all-write-ups/
+- https://washi1337.github.io/ctf-writeups/writeups/flare-on/2020/
 
 **2021**
 - [In Write-ups/2021 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2021)
