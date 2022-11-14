@@ -5,7 +5,7 @@ This repo is aim to compile all Flare-On challenge's binaries and write-ups so t
 
 The binaries are compressed with 7zip / Zip except for 2016 and 2017's binaries. The password of all compressed file were attached in .txt file.
 
-Available Binaries and Write-ups: 2014 - 2021
+Available Binaries and Write-ups: 2014 - 2022
 
 # Flare-On Binaries
 - 2014 (Flare-On 1)
@@ -16,6 +16,7 @@ Available Binaries and Write-ups: 2014 - 2021
 - 2019 (Flare-On 6)
 - 2020 (Flare-On 7)
 - 2021 (Flare-On 8)
+- 2022 (Flare-On 9)
 
 # Flare-On Writeups
 **2014**
@@ -74,6 +75,17 @@ Available Binaries and Write-ups: 2014 - 2021
 - https://www.mustafadur.com/blog/flareon-2021-08/
 - https://washi1337.github.io/ctf-writeups/writeups/flare-on/2021/
     
+**2022**
+- https://www.mandiant.com/resources/blog/flareon9-challenge-solutions
+- https://www.elastic.co/flare-on-9-solutions-burning-down-the-house
+- https://oalieno.github.io/2022/11/12/flare-on-9/zh-tw/
+- https://shellcromancer.io/posts/flare-on-9/
+- https://github.com/lkmidas/Short-CTF-Writeups/tree/master/2022/flareon2022
+- https://hshrzd.wordpress.com/tag/flareon9/
+- https://blog.bollos.nl/posts/flare-on-9/
+- https://re-dojo.github.io/post/2022-11-13-FlareOn-9-part-1/
+
+
 
 
 
