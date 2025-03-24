@@ -45,7 +45,6 @@ Available Binaries and Write-ups: 2014 - 2024
 - https://lifeinhex.com/about-flare-2017/
 - https://blog.attify.com/
 
-
 **2018**
 - [In Write-ups/2018 directory (FireEye's official write-up)](https://github.com/fareedfauzi/Flare-On-Challenges/tree/master/Write-ups/2018)
 - https://blog.attify.com/
@@ -86,12 +85,28 @@ Available Binaries and Write-ups: 2014 - 2024
 - https://hshrzd.wordpress.com/tag/flareon9/
 - https://blog.bollos.nl/posts/flare-on-9/
 - https://re-dojo.github.io/post/2022-11-13-FlareOn-9-part-1/
+- https://washi1337.github.io/ctf-writeups/writeups/flare-on/2022/
 
 **2023**
 - https://cloud.google.com/blog/topics/threat-intelligence/flareon10-challenge-solutions/
+- https://github.com/omr00t/flareon10_solutions
+- https://joostrijneveld.nl/posts/2023-11-13-write-ups-for-flare-on-10/
+- https://www.youtube.com/watch?v=wpHMVMkcvpI
+- https://www.digitalwhisper.co.il/files/Zines/0x9D/DW157-1-Fl4reOn2023.pdf
+- https://github.com/hasherezade/flareon2023
 
 **2024**
 - https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions
+- https://0xdf.gitlab.io/flare-on-2024/frog
+- https://blog.washi.dev/posts/flareon11/
+- https://washi1337.github.io/ctf-writeups/writeups/flare-on/2024/
+- https://github.com/hasherezade/flareon2024
+- https://www.youtube.com/playlist?list=PLYP-7_bD0kQEJ51srPqQY7QUc2VNYN8uN
+- https://hackmd.io/@huydeptrainhatvinhbacbo/flareon2024
+- https://vaktibabat.github.io/posts/flareon2024/
+- https://eversinc33.com/posts/flareon11.html
+- https://sec.vnpt.vn/2024/11/flareon-11-writeup-part-1
+- https://gmo-cybersecurity.com/blog/flare-on-11-write-up/
 
 
 
