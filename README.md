@@ -85,6 +85,11 @@ Available Binaries and Write-ups: 2014 - 2022
 - https://blog.bollos.nl/posts/flare-on-9/
 - https://re-dojo.github.io/post/2022-11-13-FlareOn-9-part-1/
 
+**2023**
+- https://cloud.google.com/blog/topics/threat-intelligence/flareon10-challenge-solutions/
+
+**2024**
+- https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions
 
 
 
